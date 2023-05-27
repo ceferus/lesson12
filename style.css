@@ -1,0 +1,152 @@
+.bg-black{
+    display: flex;
+    align-items: center;
+    background: linear-gradient(180deg, #413636 0%, #1B1717 76.91%, #000000 100%);
+    height: 60px;
+    left: 0px;
+    top: 0px;
+}
+.logo{
+    width: 35px;
+    height: 35px;
+    padding-left: 20px;
+}
+.space{
+    display: flex;
+    flex-direction: row;
+    margin-left: 1050px;
+    color: #DBD0D0;
+    font-family: 'Inter', sans-serif;
+    gap: 35px;
+    font-weight: 100px;
+    font-size: 11px;
+}
+.bg-yellow{
+    background-image: url(./Rectangle\ 529\ \(1\).png);
+    height:80px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.input{
+    border-radius: 15px;
+    background-color: black;
+    padding: 4px 8px;
+    margin-top: 10px;
+}
+.div{
+    color: #000000;
+    font-weight: 500px;
+    font-size: 18px;
+    font-family: 'Poppins';
+    margin-top: 7px;
+}
+.parent1{
+    background: linear-gradient(0deg, rgba(247, 151, 30, 0.1072) 15.1%, rgba(247, 152, 30, 0.107669) 15.11%, rgba(255, 210, 0, 0.16) 73.77%);
+    width: 1000px;
+    height: 350px;
+    border-radius: 30px;
+    margin-left: 180px;
+    margin-top: 70px;
+    top: 0px;
+    left: 0px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+.right{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 100px;
+}
+.bike{
+    background: linear-gradient(111.77deg, #05108B 5.67%, #1B34BA 34.6%, #2B4FDE 103.69%);
+    width: 200px;
+    height: 150px;
+    border-radius: 14px;
+    position: absolute;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.div2{
+    color:white;
+    font-family: 'Inter', sans-serif;
+    padding-top: 16px;
+    padding-left: 90px;
+
+}
+.div3{
+    display: flex;
+    flex-direction: row;
+}
+.bike-service{
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+}
+.logo2{
+    width: 30px;
+    height: 30px;
+    margin-left: 85px;
+}
+.div5{
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 8px;
+    text-align: center;
+   
+}
+.span{
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    font-size: 6px;
+    text-align: center;
+}
+.div4{
+    padding-top: 10px;
+}
+.button{
+    border-radius: 8px;
+    border: 1px solid #498EE2;
+    color: #498EE2;
+    margin-top: 175px;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 13px;
+    font-family: 'Inter', sans-serif;
+    margin-left: 45px;
+}
+.bangs{
+    color: #0C0C0C;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    padding-top: 20px;
+   
+}
+.bangs2{
+    color: #42424D;
+    position: absolute;
+    font-size: 22px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    padding-top: 7px;
+}
+.left{
+   padding-top: 40px;
+   padding-left: 80px;
+    
+}
